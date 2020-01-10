@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StrunderSv", "StrunderSv\StrunderSv.vcxproj", "{FE6B3C6F-FE7E-4370-9D03-5BCD148CA44B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6B3C6F-FE7E-4370-9D03-5BCD148CA44B}.Debug|x64.ActiveCfg = Debug|x64
+		{FE6B3C6F-FE7E-4370-9D03-5BCD148CA44B}.Debug|x64.Build.0 = Debug|x64
+		{FE6B3C6F-FE7E-4370-9D03-5BCD148CA44B}.Debug|x64.Deploy.0 = Debug|x64
+		{FE6B3C6F-FE7E-4370-9D03-5BCD148CA44B}.Release|x64.ActiveCfg = Release|x64
+		{FE6B3C6F-FE7E-4370-9D03-5BCD148CA44B}.Release|x64.Build.0 = Release|x64
+		{FE6B3C6F-FE7E-4370-9D03-5BCD148CA44B}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F6EE30C-51A9-4ECA-AFE0-E9E225F018B1}
+	EndGlobalSection
+EndGlobal
